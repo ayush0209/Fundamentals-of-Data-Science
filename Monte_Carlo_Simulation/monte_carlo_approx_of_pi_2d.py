@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 i=1
 N=10
-for i in range(0,7): 
+for i in range(0,6): 
 	sum=0
 	xin=[]
 	yin=[]
